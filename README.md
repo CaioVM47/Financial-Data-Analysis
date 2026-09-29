@@ -26,20 +26,3 @@ Desempenho por Região: Identificação de regiões com maior margem de lucro re
 Canais de Distribuição: Comparativo do custo operacional por transação entre os canais de vendas Online e Offline.
 
 Sazonalidade das Vendas: Mapeamento de picos de faturamento ao longo dos meses do ano para identificação de tendências operacionais.
-
-# 🚀 Como Executar o Projeto
-Clone o repositório:
-
-Bash
-git clone [https://github.com/SEU-USUARIO/global-sales-analysis.git](https://github.com/SEU-USUARIO/global-sales-analysis.git)
-cd global-sales-analysis
-Crie um ambiente virtual e instale as dependências:
-
-Bash
-python -m venv venv
-source venv/bin/activate  # No Windows use: venv\Scripts\activate
-pip install -r requirements.txt
-Inicie o Jupyter Notebook:
-
-Bash
-jupyter notebook
