@@ -27,17 +27,6 @@ Canais de Distribuição: Comparativo do custo operacional por transação entre
 
 Sazonalidade das Vendas: Mapeamento de picos de faturamento ao longo dos meses do ano para identificação de tendências operacionais.
 
-📂 Estrutura do Repositório
-├── data/
-│   ├── raw_sales.csv         # Conjunto de dados bruto
-│   └── cleaned_sales.csv     # Dados tratados e prontos para análise
-├── notebooks/
-│   └── global_sales_eda.ipynb # Notebook contendo o pipeline completo
-├── images/                   # Gráficos exportados durante a análise
-├── README.md                 # Documentação do projeto
-└── requirements.txt          # Dependências do projeto
-
-
 # 🚀 Como Executar o Projeto
 Clone o repositório:
 
